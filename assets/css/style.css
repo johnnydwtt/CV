@@ -1,3 +1,8 @@
+body{
+    font-family: "Bahnschrift";
+}
+
+
 .navbarColor{
     background-color: #E16F6F;
 }
@@ -52,7 +57,7 @@
 }
 
 .iconsize{
-    height: 63px;
+    height: 40px;
 }
 
 .pictureskills{
@@ -85,4 +90,16 @@
 .separheight{
     height: 100px;
     width: 1000px;
+}
+
+.colorback{
+    background-color: rgba(0, 0, 0, 0.164);
+}
+
+.barhtml{
+    background-color:darkorange;
+}
+
+.barphp{
+    background-color:#9784ae;
 }
