@@ -1,5 +1,6 @@
 body{
     font-family: "Bahnschrift";
+    scroll-behavior: smooth;
 }
 
 
@@ -61,9 +62,16 @@ body{
 }
 
 .pictureskills{
-    height: 250px;
+    height: 100%;
     width: 100%;
 }
+
+.picturedesign{
+    height: 100%;
+    width: 100%;
+}
+
+
 
 .pdfallsize{
     height: 70px;
@@ -92,6 +100,8 @@ body{
     width: 1000px;
 }
 
+/* BACKGROUND COLOR POUR TOUT */
+
 .colorback{
     background-color: rgba(0, 0, 0, 0.164);
 }
@@ -103,3 +113,17 @@ body{
 .barphp{
     background-color:#9784ae;
 }
+
+.barbootstrap{
+    background-color: #673ab7;
+}
+
+.barps{
+    background-color: #092347;
+}
+
+.baradobe{
+    background-color: #7819a5;
+}
+
+/* ****************** */
