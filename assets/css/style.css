@@ -1,0 +1,91 @@
+.navbarColor{
+    background-color: #E16F6F;
+}
+
+/* ESPACEMENT DIFFERENT */
+.margintop1{
+    margin-top: 70px;
+}
+
+.margintop2{
+    margin-top: 100px;
+}
+
+.margintop3{
+    margin-top: 50px;
+}
+
+.margintop4{
+    margin-top: 40px;
+}
+
+/* ***************** */
+/* FONT IMPORT */
+@font-face {
+
+    font-family: "proNormal";
+    src: url(/assets/font/pro-Normal.otf);
+
+}
+
+.createfont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "proNormal";
+    font-size: 46px;
+    color: #E16F6F;
+}
+
+/* ***************** */
+/* ADAPTATION DES TAILLES D'IMAGE D'ICONE ET DE FONTS */
+.fontsizep{
+    font-size: 30px;
+}
+
+.fontsizep2{
+    font-size: 15px;
+}
+
+.mypicture{
+    height: 300px;
+}
+
+.iconsize{
+    height: 63px;
+}
+
+.pictureskills{
+    height: 250px;
+    width: 100%;
+}
+
+.pdfallsize{
+    height: 70px;
+}
+
+.pdfallsize2{
+    height: 80px;
+}
+
+
+/* ***************** */
+
+.nav-item:hover{
+    font-size: 19.5px;
+    text-decoration: underline 2px;
+}
+
+.flexitems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.separheight{
+    height: 100px;
+    width: 1000px;
+}
+
+.progress-bar-stripped{
+}
